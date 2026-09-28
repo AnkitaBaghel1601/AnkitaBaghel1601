@@ -1,79 +1,81 @@
+<div align="center">
+
 # 👋 Hi, I'm Ankita Singh Baghel
 
 ### 💻 B.Tech CSE (Data Science) | Aspiring Software Developer
 
-I’m a Computer Science student passionate about **software development, problem-solving, AI, and building real-world projects**.
+<p>
+  <em>Learning • Building • Solving • Growing 🚀</em>
+</p>
 
-🌱 Currently learning **Java + DSA, JavaScript & Full-Stack Development**  
-🤖 Exploring **AI, Machine Learning & Data Science**  
-💡 I enjoy learning new technologies and turning ideas into projects.  
-🎯 Currently preparing for **software development placements**
+</div>
+
+---
+
+## 🌷 About Me
+
+I'm a Computer Science student specializing in **Data Science**, with a strong interest in software development, problem-solving, AI, and building practical projects.
+
+- 🎓 B.Tech in Computer Science & Engineering — Data Science
+- 💻 Currently strengthening **Java & DSA**
+- 🌐 Learning **JavaScript & Full-Stack Development**
+- 🤖 Exploring **AI, Machine Learning & Data Science**
+- 🧩 Practicing problem-solving for software development placements
+- 🌱 Always learning and improving one step at a time
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-`Java` `Python` `JavaScript`
+<div align="center">
 
-### Web Development
-`HTML` `CSS` `JavaScript`
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 
-### Database
-`SQL`
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### Data & AI
-`Machine Learning` `Data Science` `Deep Learning`
+### 🗄️ Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
-### Tools
-`Git` `GitHub` `VS Code`
+### 🤖 AI & Data
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌱 AI Crop Recommendation System
-An AI/ML-based project that recommends suitable crops based on agricultural and environmental parameters.
+An AI/ML-based project that recommends suitable crops using agricultural and environmental parameters.
+
+**Tech:** Python • Machine Learning • Data Science
+
+---
 
 ### 🤖 AI Recruitment System
 A multi-agent AI project designed to assist with candidate screening and recruitment workflows.
 
+**Tech:** Python • AI • APIs • FastAPI
+
+---
+
 ### 🌐 Web Development Projects
-Building responsive and interactive web applications while learning modern frontend and backend technologies.
+Building responsive and interactive web applications while strengthening frontend and backend development skills.
+
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 📚 Currently Learning
 
-- ☕ Java & Data Structures
-- 🌐 JavaScript & Full-Stack Development
-- 🗄️ SQL & Databases
-- 🤖 AI & Machine Learning
-- 🧠 Problem Solving
+```text
+Java + DSA              █████████░░
+JavaScript              ████████░░░
+Web Development         ████████░░░
+SQL                     ███████░░░░
+AI & Machine Learning   ██████░░░░░
+📧 **Email:** ankitabaghel1601@gmail.com
 
----
-
-## 🎯 My Goal
-
-> **Learn → Build → Practice → Improve → Repeat**
-
-I'm continuously working on my technical skills and building projects to become a confident software developer.
-
----
-
-## 📊 GitHub
-
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitaBaghel1601&show_icons=true&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-📧 **Email:** Your-email-here  
-💼 **LinkedIn:** Your-LinkedIn-link-here
-
----
-
-⭐ *Thanks for visiting my profile!*
-
-
+💼 **LinkedIn:** https://www.linkedin.com/in/ankita-singh-077ab1330
